@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emmadegreat
-- 👀 I’m interested in web development
+- 👀 An intermediate web developer
 - 🌱 I’m currently learning Python Flask 
 - 💞️ I’m looking to collaborate on software engineering
 - 📫 How to reach me; via my email and github account
