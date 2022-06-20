@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmadegreat
 - 👀 An intermediate web developer
-- 🌱 I’m currently learning Python Flask 
+- 🌱 I’m currently learning Js/React Js
 - 💞️ I’m looking to collaborate on software engineering
 - 📫 How to reach me; via my email and github account
 
