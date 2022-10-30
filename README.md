@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmadegreat
 - 👀 An intermediate web developer
-- 🌱 I develop designs to function website. Currently my stack are HTML, CSS, Javascript and React JS.
+- 🌱 I develop designs to function website. Currently my stack are HTML, CSS, Javascript, SASS and React JS.
 -    I am always open to learning new skills especially in the field of software development.
 - 💞️ I look forward to collaborating with teams of like mind to grow in tech and also execute project.
     As a frontend developer I have received several hands on training concerning web developement with the latest web technologies.
