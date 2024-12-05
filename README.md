@@ -5,7 +5,7 @@
 - 💞️ I look forward to collaborating with teams of like mind to grow in tech and also execute project.
     As a frontend developer I have received several hands on training concerning web developement with the latest web technologies.
 - 📫 How to reach me; via my email and github account
-- website: https://emftech.vercel.app
+- website: https://portfolio.emftech.com.ng
 
 <!---
 Emmadegreat/Emmadegreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
